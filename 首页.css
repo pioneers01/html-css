@@ -3,7 +3,7 @@
 		margin:0 auto;
 	}
 	.logo-bg{
-		background:url("./img/logo-bg 22.png");
+		background:url("./img/logo-bg22.png");
 		width:980px;
 		height:76px;
 	}
@@ -11,7 +11,7 @@
 		margin:10px 0 0 17px;
 	}
 	header nav{
-		background:url("./img/nav-bg  333.png");
+		background:url("./img/nav-bg333.png");
 		width: 980px;
 		height: 34px;
 		font-size: 0px;
@@ -154,7 +154,7 @@
 	}
 	.top-right .t-r-li{
 		box-sizing:border-box;
-		background:white url("./img/layer 60.png") no-repeat center;
+		background:white url("./img/layer60.png") no-repeat center;
 		height:45px;
 	}
 	.top-right div.t-r6{
@@ -360,7 +360,7 @@
 		margin-right:2px;
 	}
 	.news .news-list{
-		background:url("./img/layer 60.png") /*no-repeat*/;
+		background:url("./img/layer60.png") /*no-repeat*/;
 	}
 	.news-list.list1{
 		background:white;
