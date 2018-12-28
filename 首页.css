@@ -3,7 +3,7 @@
 		margin:0 auto;
 	}
 	.logo-bg{
-		background:url("./img/logo-bg22.png");
+		background:url("./img/mogo-bg22.png");
 		width:980px;
 		height:76px;
 	}
@@ -130,7 +130,7 @@
 		color: rgb(52, 55, 60);
 		line-height: 1.2;
 		text-align: left;
-		/*background:white url("./img/layer 60.png") no-repeat center;*/
+		/*background:white url("./img/mayer 60.png") no-repeat center;*/
 	}
 	.top-right div.t-r1{
 		background:rgb(48,51,56);
@@ -154,7 +154,7 @@
 	}
 	.top-right .t-r-li{
 		box-sizing:border-box;
-		background:white url("./img/layer60.png") no-repeat center;
+		background:white url("./img/mayer60.png") no-repeat center;
 		height:45px;
 	}
 	.top-right div.t-r6{
@@ -341,8 +341,8 @@
 	.news .news-list span{
 		float:left;
 		margin-top:8px;
-		/*background:white url("./img/layer 60.png") no-repeat ;*/
-		/*background:url("./img/layer 60.png") no-repeat center;*/
+		/*background:white url("./img/mayer 60.png") no-repeat ;*/
+		/*background:url("./img/mayer 60.png") no-repeat center;*/
 	}
 	.news-list .img1{
 		margin-left:0px;
@@ -360,7 +360,7 @@
 		margin-right:2px;
 	}
 	.news .news-list{
-		background:url("./img/layer60.png") /*no-repeat*/;
+		background:url("./img/mayer60.png") /*no-repeat*/;
 	}
 	.news-list.list1{
 		background:white;
